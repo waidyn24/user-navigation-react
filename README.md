@@ -1,7 +1,3 @@
-Вот простое описание на английском уровне A1-A2:
-
-⸻
-
 React Router Lab 4
 
 Description
